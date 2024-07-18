@@ -24,10 +24,6 @@ I'm [Rolanda Hutson](https://github.com/rolandahtsn), a passionate software engi
 - [LinkedIn](https://www.linkedin.com/in/rolandahtsn)
 - [GitHub](https://github.com/rolandahtsn)
 
-## 📈 My GitHub Stats
-
-![Rolanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rolandahtsn&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)
-
 ## 📈 My Projects
 - Perception: [Computer Vision](https://github.com/rolandahtsn/Computer_VisionA)
 - Controls: [Optimal Control and Reinforcement Learning](https://github.com/rolandahtsn/OCRL)
